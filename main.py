@@ -25,7 +25,7 @@ class MyClient(discord.Client):
         # Profilde dönecek emojili durumlar
         self.durumlar = [
             "👑 Self Bot By Efe",
-            "🌐 https://discord.gg",
+            "🌐 https://discord.gg/FSZrmMygRc",
             "⚡ Ez Self"
         ]
 
